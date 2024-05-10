@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Info = () => {
 	return (
-		<div className='px-40 text-lg'>
+		<section className='px-40 text-lg'>
 			<p>
 				<strong>Saayam</strong> is a software platform that brings
 				requestors of help, volunteers, volunteer organizations and
@@ -98,7 +98,7 @@ const Info = () => {
 				</Link>
 				!
 			</p>
-		</div>
+		</section>
 	);
 };
 

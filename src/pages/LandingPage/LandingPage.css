@@ -375,8 +375,10 @@
     height: auto;
     width: 60%;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
   }
   .embla__container {
     display: flex;
@@ -390,4 +392,7 @@
     min-width: 0;
     
   }
+  .headers{height: 15%;background-color: blue;width: 100%;}
+.texts{height: 85%;background-color: aqua;display: block;float: left;width: 50%;}
+.images{height: 85%;display: block;float: right;width: 50%;}
   

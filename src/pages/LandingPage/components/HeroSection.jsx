@@ -2,7 +2,7 @@ import React from "react";
 
 const HeroSection = () => {
 	return (
-		<div className='hero bg-base-100'>
+		<section className='hero bg-base-100'>
 			<div className='hero-content text-center'>
 				<div className='max-w-md'>
 					<div className='py-6 text-2xl'>
@@ -12,7 +12,7 @@ const HeroSection = () => {
 					</div>
 				</div>
 			</div>
-		</div>
+		</section>
 	);
 };
 

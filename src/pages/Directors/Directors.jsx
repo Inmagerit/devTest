@@ -42,7 +42,7 @@ const DirectorsData = [
 
 const Directors = () => {
 	return (
-		<div>
+		<section>
 			<h1 className='text-center text-3xl font-semibold'>Directors</h1>
 			<div className='directors flex items-center justify-center flex-wrap gap-10'>
 				{DirectorsData.map((director, index) => (
@@ -79,7 +79,7 @@ const Directors = () => {
 					</div>
 				))}
 			</div>
-		</div>
+		</section>
 	);
 };
 

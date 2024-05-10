@@ -11,7 +11,7 @@ const Contact = () => {
 		console.log(formData);
 	};
 	return (
-		<div className='flex items-center justify-center flex-col gap-5 mt-5'>
+		<section className='flex items-center justify-center flex-col gap-5 mt-5'>
 			<h1>Enter the details and click Submit</h1>
 			<form
 				className='w-2/5 flex flex-col gap-5'
@@ -113,7 +113,7 @@ const Contact = () => {
 					Submit
 				</button>
 			</form>
-		</div>
+		</section>
 	);
 };
 

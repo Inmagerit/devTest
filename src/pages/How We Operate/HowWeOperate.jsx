@@ -4,7 +4,7 @@ import howWeOperateData from "./data";
 
 const HowWeOperate = () => {
 	return (
-		<div className='px-14 my-6'>
+		<section className='px-14 my-6'>
 			{howWeOperateData?.map((item, idx) => (
 				<div key={idx}>
 					<h1 className='text-2xl font-semibold mt-3'>
@@ -51,7 +51,7 @@ const HowWeOperate = () => {
 					))}
 				</div>
 			))}
-		</div>
+		</section>
 	);
 };
 

@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 const Error404 = () => {
 	return (
-		<div>
-			<section className='page_404'>
+		<section>
+			<div className='page_404'>
 				<div className='container'>
 					<div className='row'>
 						<div className='col-sm-12 '>
@@ -32,8 +32,8 @@ const Error404 = () => {
 						</div>
 					</div>
 				</div>
-			</section>
-		</div>
+			</div>
+		</section>
 	);
 };
 
