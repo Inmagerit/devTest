@@ -9,7 +9,7 @@ const HeroSection = () => {
 					
 						<strong>Saayam</strong> means Help in Telugu language.
 						Equivalent words are Sahaay in Sanskrit/Hindi, Bangzhu
-						in Chinese and Ayuda in Spanish.
+						in Chinese and Ayuda in Spanish. <br/>
 						Welcome to Saayam, a non-profit organization – is your gateway to assistance and
 support in times of need. Saayam means Help in Telugu, Sahaay in Sanskrit/Hindi,
 Bangzhu in Chinese, and Ayuda in Spanish.
