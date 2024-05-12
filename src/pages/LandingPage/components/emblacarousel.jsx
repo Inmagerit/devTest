@@ -8,7 +8,7 @@ export function EmblaCarousel() {
 
   //delay:3000 is the time the carousel will show an image
 
-  const [emblaRef] = useEmblaCarousel({ loop: false }, [Autoplay({delay:3000})])
+  const [emblaRef] = useEmblaCarousel({ loop: false }, [Autoplay({delay:5000})])
 
   return (
 

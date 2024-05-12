@@ -4,7 +4,7 @@
  const  sectionWithHeader = () => {
     return (
         <>
-        <section>
+        <section className='sectionWraper'>
         <div className = 'headers'>
         <p>
             hello world

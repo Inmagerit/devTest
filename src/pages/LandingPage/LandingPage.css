@@ -392,7 +392,8 @@
     min-width: 0;
     
   }
-  .headers{height: 15%;background-color: blue;width: 100%;}
+.headers{height: 15%;background-color: blue;width: 100%;}
 .texts{height: 85%;background-color: aqua;display: block;float: left;width: 50%;}
 .images{height: 85%;display: block;float: right;width: 50%;}
+.sectionWraper{display: block;height: 10em;width: 100%;}
   
